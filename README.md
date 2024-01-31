@@ -16,6 +16,7 @@ To integrate `next-edge-crypto` into your project, use the following command:
 npm install next-edge-crypto
 # or
 yarn add next-edge-crypto
+```
 
 ## Usage
 
