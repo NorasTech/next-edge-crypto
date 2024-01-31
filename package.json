@@ -1,0 +1,15 @@
+{
+  "name": "next-edge-crypto",
+  "version": "0.1.0",
+  "description": "The crypto library that uses WebCryptoApi for Edge Runtime",
+  "main": "dist/crypto.js",
+  "repository": "https://github.com/NorasTech/next-edge-crypto",
+  "author": "Kerem Noras",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "@types/node": "^20.11.13"
+  }
+}
